@@ -4,7 +4,7 @@ const config = {
     server: "localhost",
     database: "2048",
     user: "sa",
-    password: "Gleb1234",
+    password: "pass",
     options: {
         encrypt: false
     },
