@@ -52,7 +52,7 @@ This project is a web-based implementation of the classic 2048 game with Google 
 5. Start the backend server:
    ```sh
    cd server
-   npm start
+   npm run dev
    ```
 6. Start the frontend:
    ```sh
