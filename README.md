@@ -44,11 +44,11 @@ This project is a web-based implementation of the classic 2048 game with Google 
    npm install
    ```
 4. Configure environment variables:
-   - Create a `.env` file in the `server` directory and add:
+   - In App.jsx and server.js:
      ```env
-     CLIENT_ID=your-google-client-id
-     DATABASE_URL=your-mssql-connection-string
+     clientId = "your_google_client_id";
      ```
+   - In db.js change your MSSQL connection string
 5. Start the backend server:
    ```sh
    cd server
