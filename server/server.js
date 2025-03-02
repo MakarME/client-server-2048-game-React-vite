@@ -4,7 +4,7 @@ const { OAuth2Client } = require("google-auth-library");
 const cors = require("cors");
 const app = express();
 
-const CLIENT_ID = "115020860028-7qdqt43hedmsjp296i7nr1i27bi7bt76.apps.googleusercontent.com";
+const CLIENT_ID = "Id";
 const PORT = 5000;
 
 const client = new OAuth2Client(CLIENT_ID);
