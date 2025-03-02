@@ -1,6 +1,6 @@
 # 2048 Game with Google OAuth Authentication
 
-![Game Preview](./assets/game-preview.gif)
+![Game Preview](./game-preview.gif)
 
 ## Overview
 This project is a web-based implementation of the classic 2048 game with Google OAuth authentication. It allows users to log in using their Google accounts, play the game, and save their high scores to a leaderboard stored in a Microsoft SQL Server database.
