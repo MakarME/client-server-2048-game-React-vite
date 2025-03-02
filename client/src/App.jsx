@@ -5,7 +5,7 @@ import Leaderboard from "./Leaderboard";
 import Game from "./Game";
 
 function App() {
-  const clientId = "115020860028-7qdqt43hedmsjp296i7nr1i27bi7bt76.apps.googleusercontent.com";
+  const clientId = "Id";
   const [userId, setUserId] = useState(null);
   const [leaderboard, setLeaderboard] = useState([]);
 
